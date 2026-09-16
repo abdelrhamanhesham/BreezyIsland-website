@@ -11,7 +11,7 @@ export function hotelSchema(url: string) {
     description:
       "A hidden sanctuary in the heart of Siwa Oasis, where desert silence meets unparalleled luxury and timeless Egyptian hospitality.",
     url,
-    telephone: "+20 1278792538",
+    telephone: "+20 15 52466662",
     email: "breezyislandresort@gmail.com",
     priceRange: "$$$",
     image: "https://www.breezyhotel.online/images/3.webp",
@@ -49,7 +49,7 @@ export function localBusinessSchema(url: string) {
     description:
       "Luxury desert retreat in the heart of Siwa Oasis, Egypt.",
     url,
-    telephone: "+20 1278792538",
+    telephone: "+20 15 52466662",
     email: "breezyislandresort@gmail.com",
     priceRange: "$$$",
     image: "https://www.breezyhotel.online/images/3.webp",
